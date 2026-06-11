@@ -33,9 +33,12 @@ Whether you're a **technology enthusiast** who enjoys exploring device capabilit
 Discover what your device is truly capable of with **Knows More**—your complete companion for understanding Android from the inside out.
 </h3>
 <h2>Screenshot</h2>
+<br>
+<br>
+
 <p align="center">
-  <img src="screenshots/1.png" alt="Screenshot 1" />
-  <img src="screenshots/2.png" alt="Screenshot 2" />
-  <img src="screenshots/3.png" alt="Screenshot 3" />
-  <img src="screenshots/4.png" alt="Screenshot 4" />
+  <img src="screenshots/1.png" width="320" hspace="50"/>
+  <img src="screenshots/2.png" width="320" hspace="50"/>
+  <img src="screenshots/3.png" width="320" hspace="50"/>
+  <img src="screenshots/4.png" width="320" hspace="50"/>
 </p>
